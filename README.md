@@ -12,6 +12,6 @@ A simple To-Do List built with Html, css and Javascript.
 - Start adding your to-dos!
 
 ## Technologies
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript

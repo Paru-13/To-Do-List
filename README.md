@@ -15,3 +15,6 @@ A simple To-Do List built with Html, css and Javascript.
 - HTML5
 - CSS3
 - JavaScript
+
+[Live Demo]
+https://paru-13.github.io/To-Do-List/
